@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{302E54A8-7D5B-4593-9563-357C2734256B}" version="1400" key="{74B9EBC9-316E-46C8-9902-EA41413578B7}" typeId="{302E54A8-7D5B-4593-9563-357C2734256B}">
+	<config nodeName="therapist" />
+	<testData />
+	<data>
+		<item caption="ImageButton_UnnamedCtrl" moniker="{D048458B-06FD-45D9-81AA-2170F1A5BFDF}" isComposite="False" simpleMode="True" currentImageIndex="0">
+			<image imageFileName="Data\ImageButton_UnnamedCtrl.png" initialHash="4DFEF03C" selectionLeft="120" selectionTop="519" selectionWidth="300" selectionHeight="300" initialLeft="120" initialTop="519" initialWidth="300" initialHeight="300" pixelTolerance="0" colorTolerance="0" deviceName="FRD-L09" />
+		</item>
+		<item caption="TextView_1053107710" moniker="{EEFB399B-0D59-417C-8123-BB8651C2D4AE}" isComposite="False" simpleMode="True" currentImageIndex="0">
+			<image imageFileName="Data\TextView_1053107710.png" initialHash="9740D93A" selectionLeft="605" selectionTop="616" selectionWidth="370" selectionHeight="73" initialLeft="605" initialTop="616" initialWidth="370" initialHeight="73" pixelTolerance="0" colorTolerance="0" deviceName="FRD-L09" />
+		</item>
+		<item caption="TextView_10531077101" moniker="{35EFFB58-8F1A-49FB-9930-AF67A4A1DEE8}" isComposite="False" simpleMode="True" currentImageIndex="0">
+			<image imageFileName="Data\TextView_10531077101.png" initialHash="F0384A3D" selectionLeft="605" selectionTop="906" selectionWidth="370" selectionHeight="73" initialLeft="605" initialTop="906" initialWidth="370" initialHeight="73" pixelTolerance="0" colorTolerance="0" deviceName="FRD-L09" />
+		</item>
+		<item caption="TextView_10531077102" moniker="{B852F561-AD7A-467A-AD05-942CBD0EC2C2}" isComposite="False" simpleMode="True" currentImageIndex="0">
+			<image imageFileName="Data\TextView_10531077102.png" initialHash="219BD697" selectionLeft="605" selectionTop="747" selectionWidth="370" selectionHeight="73" initialLeft="605" initialTop="747" initialWidth="370" initialHeight="73" pixelTolerance="0" colorTolerance="0" deviceName="FRD-L09" />
+		</item>
+		<item caption="TextView_10531077103" moniker="{DDDC6399-F8BC-4E55-9728-7BF105D4EA07}" isComposite="False" simpleMode="True" currentImageIndex="0">
+			<image imageFileName="Data\TextView_10531077103.png" initialHash="A037606B" selectionLeft="605" selectionTop="931" selectionWidth="370" selectionHeight="73" initialLeft="605" initialTop="931" initialWidth="370" initialHeight="73" pixelTolerance="0" colorTolerance="0" deviceName="FRD-L09" />
+		</item>
+		<item caption="LinearLayout_UnnamedCtrl" moniker="{CBE82742-CCD6-4955-B973-D17B6085D128}" isComposite="False" simpleMode="True" currentImageIndex="0">
+			<image imageFileName="Data\LinearLayout_UnnamedCtrl.png" initialHash="AB18AE7B" selectionLeft="30" selectionTop="1347" selectionWidth="1020" selectionHeight="103" initialLeft="30" initialTop="1347" initialWidth="1020" initialHeight="103" pixelTolerance="0" colorTolerance="0" deviceName="FRD-L09" />
+		</item>
+	</data>
+</Root>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{90D101C8-80C7-48D4-9055-2E451B9BCD75}" version="1400" key="{0D40C4ED-ECFF-4AEC-A700-2C8135737F89}" typeId="{90D101C8-80C7-48D4-9055-2E451B9BCD75}">
+	<config nodeName="TestedApps" />
+	<testData />
+	<data />
+	<children>
+		<child key="{76609110-8C55-4D55-856C-2A1E22D8BE29}">
+			<config nodeName="app_debug" autorunOnRecording="False" enabled="True" count="1" useFeaturedRuntimeObject="True" userChangeName="True">
+				<runModeParams activeRunMode="Android">
+					<param name="Android" parameters="" workFolder="" apkFileName="D:\FireBase_Auth\app\build\outputs\apk\debug\app-debug.apk" deploy="True" keepDataAndCache="False" storeBackup="True" backupFileName="D:\FireBase_Auth\app\build\outputs\apk\debug\app-debug_ORIGINAL_BACKUP.apk" signAPKWithCustom="False" keystorePath="" alias="" keystorePassword="" keyPassword="" />
+				</runModeParams>
+			</config>
+			<testData />
+			<data />
+		</child>
+	</children>
+</Root>

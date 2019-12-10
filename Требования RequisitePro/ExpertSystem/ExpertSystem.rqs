@@ -1,0 +1,18 @@
+[Project]
+Owner=admin
+Name=ExpertSystem
+GUID={475E275E-4BA9-4784-AB6E-3BD87C757006}
+CQWebURL=
+isTrackChangesAllowed=1
+Description=New Project
+Owner Key=1
+Revision number=1.0026
+Prefix=
+NbrRequirements=25
+Directory=C:\Documents and Settings\Alex\Рабочий стол\Новая папка\ExpertSystem\ExpertSystem.rqs
+Key=1
+
+[Application]
+Data file version=1.0040
+Program Version=9.100.0.1
+

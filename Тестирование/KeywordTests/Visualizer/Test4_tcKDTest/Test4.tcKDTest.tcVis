@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{42D2222C-ACA2-405F-8E67-05D5C42EB839}" version="2">
+	<data key="{DDC62975-A983-458C-BBB5-DE3D3841AC48}">
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="1" kind="1" dateTime="43804.8816129398" objectName="" objectLeft="0" objectTop="0" objectRight="0" objectBottom="0" clickPointX="330" clickPointY="643" imageFileName="AndroidVisualizer0.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="2" kind="1" dateTime="43804.8816470139" objectName="" objectLeft="171" objectTop="643" objectRight="361" objectBottom="691" clickPointX="330" clickPointY="647" imageFileName="AndroidVisualizer1.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="3" kind="1" dateTime="43804.8816480093" objectName="" objectLeft="171" objectTop="643" objectRight="361" objectBottom="691" clickPointX="290" clickPointY="647" imageFileName="AndroidVisualizer2.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="4" kind="1" dateTime="43804.8816824653" objectName="" objectLeft="0" objectTop="0" objectRight="0" objectBottom="0" clickPointX="699" clickPointY="637" imageFileName="AndroidVisualizer3.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="5" kind="1" dateTime="43804.8817072106" objectName="" objectLeft="0" objectTop="0" objectRight="0" objectBottom="0" clickPointX="716" clickPointY="917" imageFileName="AndroidVisualizer4.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="6" kind="1" dateTime="43804.8817451042" objectName="" objectLeft="271" objectTop="1215" objectRight="318" objectBottom="1257" clickPointX="280" clickPointY="1240" imageFileName="AndroidVisualizer5.png" storageFileName="" needUpdate="False" rectColor="255" />
+	</data>
+</Root>

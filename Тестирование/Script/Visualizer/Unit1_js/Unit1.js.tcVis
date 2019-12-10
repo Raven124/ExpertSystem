@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{42D2222C-ACA2-405F-8E67-05D5C42EB839}" version="2">
+	<data key="{53329FE9-4A83-4A46-B2BE-33896B91DC91}">
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="3" kind="1" dateTime="43804.8866187847" objectName="" objectLeft="0" objectTop="0" objectRight="0" objectBottom="0" clickPointX="340" clickPointY="726" imageFileName="AndroidVisualizer0.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="4" kind="1" dateTime="43804.8866654861" objectName="" objectLeft="404" objectTop="1556" objectRight="621" objectBottom="1607" clickPointX="551" clickPointY="1567" imageFileName="AndroidVisualizer1.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="6" kind="1" dateTime="43804.8867321065" objectName="" objectLeft="0" objectTop="0" objectRight="0" objectBottom="0" clickPointX="703" clickPointY="775" imageFileName="AndroidVisualizer3.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="7" kind="1" dateTime="43804.8868297569" objectName="" objectLeft="0" objectTop="0" objectRight="0" objectBottom="0" clickPointX="765" clickPointY="990" imageFileName="AndroidVisualizer4.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="8" kind="1" dateTime="43804.8868329398" objectName="" objectLeft="0" objectTop="0" objectRight="0" objectBottom="0" clickPointX="752" clickPointY="960" imageFileName="AndroidVisualizer5.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="9" kind="1" dateTime="43804.8868663426" objectName="" objectLeft="756" objectTop="1164" objectRight="829" objectBottom="1238" clickPointX="762" clickPointY="1184" imageFileName="AndroidVisualizer6.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="10" kind="1" dateTime="43804.8869056018" objectName="" objectLeft="272" objectTop="1365" objectRight="317" objectBottom="1414" clickPointX="310" clickPointY="1402" imageFileName="AndroidVisualizer7.png" storageFileName="" needUpdate="False" rectColor="255" />
+	</data>
+</Root>
